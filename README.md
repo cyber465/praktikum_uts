@@ -1,4 +1,7 @@
 # praktikum_uts
+# Renaldi 311910386
+# Universitas pelita bangsa
+
 
 Setelah anda membuat desain web pada tutorial sebelumnya, kali ini kita akan meng-konversi desain web yang telah kita buat menjadi baris-baris kode HTML. Jika anda ingin mengetahui bagaimana proses pembuatan desain web silahkan baca tutorial Membuat Desain Web Minimalis Dengan Photoshop.
 
